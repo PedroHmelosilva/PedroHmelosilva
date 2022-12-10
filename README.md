@@ -20,7 +20,7 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: hmelosilvapedro@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="gmail.png">
     </a>
     <a href = "https://github.com/PedroHmelosilva">
       <img color="#fff" width="25" src=""><a href="github.svg">Meu Gi</a>
