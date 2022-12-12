@@ -1,9 +1,10 @@
-## Opa eae, aqui quem fala é o Pedro👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e7e7e7&height=120&section=header"/>
 
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHmelosilva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="right" width="350" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHmelosilva&layout=compact&langs_count=16&theme=react"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroHmelosilva&show_icons=true&count_private=true&hide_border=true&title_color=e7e7e7&icon_color=e7e7e7&text_color=c9d1d9&bg_color=0d1117" alt="PedroHmelosilva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHmelosilva&layout=compact&hide_border=true&title_color=e7e7e7&text_color=e7e7e7&bg_color=0d1117" />
 </div>
+
 <hr id="hr-para-mobile" class="line05" size="5" color="#e7e7e7" width=100%>
 <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -25,3 +26,5 @@
 </div>
   
 ![Snake animation](https://github.com/PedroHmelosilva/PedroHmelosilva/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e7e7e7&height=120&section=footer"/>
