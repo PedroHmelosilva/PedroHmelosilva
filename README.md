@@ -8,10 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHmelosilva&layout=compact&hide_border=true&title_color=e7e7e7&text_color=e7e7e7&bg_color=0d1117" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PedroHmelosilva&color=e7e7e7&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <hr id="hr-para-mobile" class="line05" size="5" color="#e7e7e7" width=100%>
 
 ### Main skills:
